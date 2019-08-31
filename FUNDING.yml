@@ -2,4 +2,6 @@
 
 github: [yeasy,khs1994]
 
-custom: https://raw.githubusercontent.com/khs1994/donate/master/wechat.png
+custom: 
+  - https://raw.githubusercontent.com/yeasy/docker_practice/master/_images/donate.jpeg
+  - https://raw.githubusercontent.com/khs1994/donate/master/wechat.png
